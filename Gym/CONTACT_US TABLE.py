@@ -9,7 +9,7 @@ try:
 # Connect to MySQL database
     connection = mysql.connector.connect(
         user='MickelUWE',
-        password='Jram1212',
+        password='#Type your password',
         host='localhost',
         database='Gym'
     )
