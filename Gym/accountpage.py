@@ -9,7 +9,7 @@ from http import cookies
 conn = mysql.connector.connect(
     host="localhost",
     user="MickelUWE",
-    password="Jram1212", 
+    password="# Add your own password", 
     database="Gym"
 )
 cursor = conn.cursor()
